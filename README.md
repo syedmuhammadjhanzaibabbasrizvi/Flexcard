@@ -1,3 +1,3 @@
 # Flexcard
 
-##Link Upadted------->>> https://syedmuhammadjhanzaibabbasrizvi.github.io/Flexcard/
+Link Upadted------->>> https://syedmuhammadjhanzaibabbasrizvi.github.io/Flexcard/
