@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: whitesmoke;
+}
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    width: 100%;
+    height: 100%;
+}
+.flex{
+    display: flex;
+    height: 300px;
+    width: 750px;
+    background-color:white;
+    border-radius: 15px;
+}
+.flex:hover{
+    box-shadow: 3px 3px 10px rgba(161, 160, 160, 0.747);
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+}
+img{
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    height: 300px;
+    width: 300px;
+}
+h3{
+    font-family: sans-serif;
+    word-spacing: 2px;
+    line-height: 25px;
+    text-align: center; 
+}
+.p1{
+    font-family: sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+.jhanzaib-profile{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    margin-left: 15px;
+}
+h4{
+    font-family: monospace;
+    font-size: large;
+}
+.time{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 300px;
+    line-height: 30px;
+}
